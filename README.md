@@ -17,7 +17,7 @@
 
 - 💡 Interested in **Deep Learning, NLP, and Business Analytics**
 
-- 💬 Ask me about **Python, Pandas, NumPy, exploratory data analysis (EDA**
+- 💬 Ask me about **Python, Pandas, NumPy, exploratory data analysis (EDA)**
 
 - 📫 How to reach me **meenarana0720@gmail.com**
 
