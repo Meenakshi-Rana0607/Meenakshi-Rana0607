@@ -6,21 +6,42 @@
 
 
 
-- 🌱 I’m currently learning **NumPy, Pandas**
+- 🌱 I’m currently learning **Data Science (Python, statistics, ML, visualization, & deployed projects)**
+ 
+- 🚀 About Me
+  - 🔍 I love finding patterns in data  
+  - 📈 I build ML models and analytical tools  
+  - 🧩 Solving real-world problems with data  
+  - 🧠 Always learning new ML & AI technique
+  - 📚 Lifelong learner, always exploring new tools and technologies
 
-- 💬 Ask me about **Python**
+- 💡 Interested in **Deep Learning, NLP, and Business Analytics**
+
+- 💬 Ask me about **Python, Pandas, NumPy, exploratory data analysis (EDA**
 
 - 📫 How to reach me **meenarana0720@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- 📊 Skilled in **transforming raw data into clear stories and powerful insights,
+   transforming raw data into clear stories and powerful insights**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- ⚡ Fun fact **I am Funny— I like turning dry numbers into stories**
+
+- 🌱 Creative & Personality-Driven
+   -🧠 Data Scientist
+   -🔍 Pattern finder 
+   -📈 Model builder 
+   -🛠 Code tinkerer
+   -Always learning, always experimenting
+
+- 📊 What I Do
+  - Build predictive & statistical models  
+  - Create end-to-end data & ML pipelines  
+  - Perform EDA, visualization, and feature engineering  
+  - Deploy ML models with scalable workflows
+
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meenakshi-rana0607&show_icons=true&locale=en&layout=compact" alt="meenakshi-rana0607" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meenakshi-rana0607&show_icons=true&locale=en" alt="meenakshi-rana0607" /></p>
