@@ -6,39 +6,39 @@
 
 
 
-- 🌱 I’m currently learning
- - **Data Science (Python, statistics, ML, visualization, & deployed projects)**
+🌱 I’m currently learning
+  **Data Science (Python, statistics, ML, visualization, & deployed projects)**
  
-- 🚀 About Me
+ 🚀 About Me
   - 🔍 I love finding patterns in data  
   - 📈 I build ML models and analytical tools  
   - 🧩 Solving real-world problems with data  
   - 🧠 Always learning new ML & AI technique
   - 📚 Lifelong learner, always exploring new tools and technologies
 
-- 💡 Interested in
-- **Deep Learning, NLP, and Business Analytics**
+💡 Interested in
+  **Deep Learning, NLP, and Business Analytics**
 
-- ## 💬 Ask me about
-- **Python, Pandas, NumPy, exploratory data analysis (EDA)**
+## 💬 Ask me about
+  **Python, Pandas, NumPy, exploratory data analysis (EDA)**
 
-- ## 📫 How to reach me
-- **meenarana0720@gmail.com**
+## 📫 How to reach me
+  **meenarana0720@gmail.com**
 
-- ## 📊 Skilled in
-- **transforming raw data into clear stories and powerful insights**
+## 📊 Skilled in
+ **transforming raw data into clear stories and powerful insights**
 
-- ## ⚡ Fun fact
-- **I am Funny— I like turning dry numbers into stories**
+## ⚡ Fun fact
+ **I am Funny— I like turning dry numbers into stories**
 
-- ## 🌱 Creative & Personality-Driven
+## 🌱 Creative & Personality-Driven
    -🧠 Data Scientist
    -🔍 Pattern finder 
    -📈 Model builder 
    -🛠 Code tinkerer
    -Always learning, always experimenting
 
-- ## 📊 What I Do
+## 📊 What I Do
   - Build predictive & statistical models  
   - Create end-to-end data & ML pipelines  
   - Perform EDA, visualization, and feature engineering  
