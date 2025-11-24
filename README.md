@@ -6,11 +6,9 @@
 
 
 
-- ## 🌱 I’m currently learning
-  **Data Science (Python, statistics, ML, visualization, & deployed projects)**
+- ## 🌱 I’m currently learning **Data Science (Python, statistics, ML, visualization, & deployed projects)**
  
-- ## 🚀 About Me
-  - 🔍 I love finding patterns in data  
+- ## 🚀 About Me - 🔍 I love finding patterns in data  
   - 📈 I build ML models and analytical tools  
   - 🧩 Solving real-world problems with data  
   - 🧠 Always learning new ML & AI technique
