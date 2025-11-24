@@ -7,7 +7,7 @@
 
 
 - ## 🌱 I’m currently learning
-- **Data Science (Python, statistics, ML, visualization, & deployed projects)**
+  **Data Science (Python, statistics, ML, visualization, & deployed projects)**
  
 - ## 🚀 About Me
   - 🔍 I love finding patterns in data  
