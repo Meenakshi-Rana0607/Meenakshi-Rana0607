@@ -33,11 +33,11 @@
  **I am Funny— I like turning dry numbers into stories**
 
 ## 🌱 Creative & Personality-Driven
-   -🧠 Data Scientist
-   -🔍 Pattern finder 
-   -📈 Model builder 
-   -🛠 Code tinkerer
-   -Always learning, always experimenting
+   - 🧠 Data Scientist
+   - 🔍 Pattern finder 
+   - 📈 Model builder 
+   - 🛠 Code tinkerer
+   - Always learning, always experimenting
 
 ## 📊 What I Do
   - Build predictive & statistical models  
