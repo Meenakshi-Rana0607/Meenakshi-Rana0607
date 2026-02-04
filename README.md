@@ -1,4 +1,4 @@
-![logo](https://github.com/Meenakshi-Rana0607/Meenakshi-Rana0607/blob/main/Banner%20git%20hub.jpg)
+![logo](https://github.com/Meenakshi-Rana0607/Meenakshi-Rana0607/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Meenakshi Rana</h1>
 <h3 align="center">Turning Data into Information, and Information into Insight.</h3>
 
